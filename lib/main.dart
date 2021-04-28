@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    MaterialApp(git add
-      home: Scaffold(
+    MaterialApp(
+    home: Scaffold(
         backgroundColor: Colors.blueGrey,
         body: Container(
           margin: EdgeInsets.all(25),
